@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258844866383",
+    "project_id": "gualaquiza-tourist",
+    "storage_bucket": "gualaquiza-tourist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258844866383:android:f5664a673f9af587bab73a",
+        "android_client_info": {
+          "package_name": "com.example.gualaquiza_tourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258844866383-4c5tnhprijgd43u3mpqcfgfa72r4v6ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEH4pdjZI1vvfEq-DxkpN3vzSr2evHr7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258844866383-4c5tnhprijgd43u3mpqcfgfa72r4v6ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
