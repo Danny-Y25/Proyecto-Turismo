@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GualaquizaTourist">
-
+        <activity android:name=".Flora"></activity>
+        <activity android:name=".Fauna" />
+        <activity android:name=".Gastronomia" />
+        <activity android:name=".Hoteles" />
+        <activity android:name=".Lugares" />
+        <activity android:name=".Restaurantes" />
+        <activity android:name=".Menu" />
         <activity android:name=".Registro" />
         <activity
             android:name=".MainActivity"
